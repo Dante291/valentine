@@ -24508,21 +24508,21 @@ apE(a){return a},
 aAE(a){return a},
 aCZ(a){return a},
 aIr(a,b,c,d){var s,r,q,p
-switch(d){case"Rose Day":s=c+" sends you a \ud83c\udf39 on Rose Day!\n\nClick the link to read the message: "+b
+switch(d){case"Rose Day":s=c+" sent you a \ud83c\udf39and a gift on Rose Day!\n\nClick the link to read their secret message for you: "+b
 break
-case"Chocolate Day":s=c+" shares a \ud83c\udf6b for Chocolate Day!\n\nClick the link to read the message: "+b
+case"Chocolate Day":s=c+" shares a \ud83c\udf6b and a gift for Chocolate Day!\n\nClick the link to read their secret message for you: "+b
 break
-case"Teddy Day":s=c+" hugs you with a \ud83e\uddf8 on Teddy Day!\n\nClick the link to read the message: "+b
+case"Teddy Day":s=c+" hugs you with a \ud83e\uddf8 and a gift on Teddy Day!\n\nClick the link to read their secret message for you: "+b
 break
-case"Propose Day":s=c+" has a special proposal for you on Propose Day!\n\nClick the link to read the message: "+b
+case"Propose Day":s=c+" has a special proposal for you on Propose Day!\n\nClick the link to read their secret message for you: "+b
 break
-case"Promise Day":s=c+" makes a promise to you on Promise Day!\n\nClick the link to read the message: "+b
+case"Promise Day":s=c+" makes a promise to you on Promise Day!\n\nClick the link to read their secret message for you: "+b
 break
-case"Hug Day":s=c+" sends a warm hug \ud83e\udd17 on Hug Day!\n\nClick the link to read the message: "+b
+case"Hug Day":s=c+" sends a warm hug and a gift \ud83e\udd17 on Hug Day!\n\nClick the link to read their secret message for you: "+b
 break
-case"Kiss Day":s=c+" sends a sweet \ud83d\udc8b on Kiss Day!\n\nClick the link to read the message: "+b
+case"Kiss Day":s=c+" sends a sweet \ud83d\udc8b and a gift on Kiss Day!\n\nClick the link to read ttheir secret message for you: "+b
 break
-default:s=c+" has a special message for you!\n\nClick the link to read the message: "+b}r=window.navigator
+default:s=c+" has a special message for you!\n\nClick the link to read their secret message for you: "+b}r=window.navigator
 r.toString
 q=t.z
 p=A.aup(A.aE(["text",s],q,q))
@@ -42116,7 +42116,7 @@ $0(){var s,r,q,p,o=this,n=null,m=o.a,l=m.f.gK()
 l=l==null?n:l.yK()
 if(l===!0){l=m.d.a.a
 m=m.a
-A.aIr(l,"chut",m.c,m.d)}else{m=o.b.al(t.Pu)
+A.aIr(l,"https://vvalentinee.netlify.app/",m.c,m.d)}else{m=o.b.al(t.Pu)
 m.toString
 l=o.c
 s=o.d
