@@ -42159,12 +42159,12 @@ M(a){var s,r,q,p,o,n,m=null
 A.zc(B.cX)
 s=t.w
 r=A.bj(a,m,s).w.a.a
-q=A.bj(a,m,s).w.a.b
-s=r>400?400:r
+s=A.bj(a,m,s).w
+q=r>400?400:r
 p=A.fh("assets/images/Background2.png",B.c6,m,m)
 o=A.dc(20)
 n=t.p
-return A.yn(B.l,new A.Kv(A.ht(new A.e6(new A.ao(0,s,0,q),A.h7(B.b7,A.a([p,A.hS(m,A.eH(A.a([A.cI(m,A.v_(A.dc(20),A.cI(B.C,this.a0p(),B.p,m,m,m,m,m,B.bS,m,m,m,1/0)),B.p,m,m,new A.cb(B.lh,m,m,o,m,m,B.ag),m,300,B.bS,m,m,m,m)],n),B.az,B.aA,B.b2),m,m,0,0,q/2+30,m),A.hS(m,A.jY(A.fh("assets/images/Icon_page-05.png",m,600,600),!0,m),m,m,m,-140,130,m)],n),B.S,B.cW),m),m,m),m),!0)},
+return A.yn(B.l,new A.Kv(A.ht(new A.e6(new A.ao(0,q,0,1/0),A.h7(B.b7,A.a([p,A.hS(m,A.eH(A.a([A.cI(m,A.v_(A.dc(20),A.cI(B.C,this.a0p(),B.p,m,m,m,m,m,B.bS,m,m,m,1/0)),B.p,m,m,new A.cb(B.lh,m,m,o,m,m,B.ag),m,300,B.bS,m,m,m,m)],n),B.az,B.aA,B.b2),m,m,0,0,s.a.b/2+30,m),A.hS(m,A.jY(A.fh("assets/images/Icon_page-05.png",m,600,600),!0,m),m,m,m,-140,130,m)],n),B.S,B.cW),m),m,m),m),!0)},
 a0p(){var s,r,q=this,p=q.c
 p.toString
 p=A.bj(p,null,t.w).w
@@ -42340,12 +42340,12 @@ M(a){var s,r,q,p,o,n,m=null
 A.zc(B.cX)
 s=t.w
 r=A.bj(a,m,s).w.a.a
-q=A.bj(a,m,s).w.a.b
-s=r>400?400:r
+s=A.bj(a,m,s).w
+q=r>400?400:r
 p=A.fh("assets/images/Background2.png",B.c6,m,m)
 o=A.dc(20)
 n=t.p
-return A.yn(B.l,A.ht(new A.e6(new A.ao(0,s,0,q),A.h7(B.b7,A.a([p,A.hS(m,A.eH(A.a([A.cI(m,A.v_(A.dc(20),A.cI(B.C,this.a8K(),B.p,m,m,m,m,m,B.bS,m,m,m,1/0)),B.p,m,m,new A.cb(B.lh,m,m,o,m,m,B.ag),m,380,B.bS,m,m,m,m)],n),B.az,B.aA,B.b2),m,m,0,0,q/2-40,m),A.hS(m,A.jY(A.fh("assets/images/Icon_page-3.1.png",m,600,600),!0,m),m,m,m,-160,-20,m)],n),B.S,B.cW),m),m,m),!0)},
+return A.yn(B.l,A.ht(new A.e6(new A.ao(0,q,0,1/0),A.h7(B.b7,A.a([p,A.hS(m,A.eH(A.a([A.cI(m,A.v_(A.dc(20),A.cI(B.C,this.a8K(),B.p,m,m,m,m,m,B.bS,m,m,m,1/0)),B.p,m,m,new A.cb(B.lh,m,m,o,m,m,B.ag),m,380,B.bS,m,m,m,m)],n),B.az,B.aA,B.b2),m,m,0,0,s.a.b/2-40,m),A.hS(m,A.jY(A.fh("assets/images/Icon_page-3.1.png",m,600,600),!0,m),m,m,m,-160,-20,m)],n),B.S,B.cW),m),m,m),!0)},
 a8K(){var s,r,q,p,o=this,n=o.c
 n.toString
 n=A.bj(n,null,t.w).w
