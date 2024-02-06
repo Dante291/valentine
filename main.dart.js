@@ -43243,7 +43243,7 @@ s=5
 return A.V(o.a.aV(0,n),$async$$0)
 case 5:i=i.a.a
 j=j.a
-A.aMx(q.b,i,"https://vvalentinee.netlify.app/",j.c,j.d,j.e)
+A.aMx(q.b,i,"https://love.spawnser.com/",j.c,j.d,j.e)
 s=3
 break
 case 4:j=q.b.al(t.Pu)
